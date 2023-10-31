@@ -8,6 +8,10 @@ h1{color: brown;
 }
 .primertitulo{
     color: chartreuse;
+    text-align: center;
+}
+.segundotitulo{
+    text-align: center;
 }
 #barramenu{
     background-color: aqua;
